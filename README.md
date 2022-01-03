@@ -8,3 +8,5 @@ readme.md 작성 참고 링크 모음
 [이미지 HTML로 넣기](https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown?rq=1)
 
 [비디오 넣기](https://www.youtube.com/watch?v=G3Cytlicv8Y)
+
+[마크다운 이모티콘](https://gist.github.com/rxaviers/7360908)
