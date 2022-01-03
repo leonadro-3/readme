@@ -1,5 +1,5 @@
 # readme
-readme.md 작성 참고
+readme.md 작성 참고 링크 모음
 
 [알람 상자](https://stackoverflow.com/questions/58737436/how-to-create-a-good-looking-notification-or-warning-box-in-github-flavoured-mar)
 
